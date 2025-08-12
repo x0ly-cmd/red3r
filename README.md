@@ -11,8 +11,9 @@ loadstring(game:HttpGet("https://pastebin.com/raw/g8agr3n1"))()
 ### Supported Games Script
 ```
 - Indo Hangout
-- [BETA] Mount Arunika
-- Mount Sibuatan
+- [BETA] Mount Arunika / Gunung Arunika
+- Mount Sibuatan / Gunung Sibuatan
+- Mount Daun / Gunung Daun
 ```
 
 ## About
