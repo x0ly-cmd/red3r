@@ -14,6 +14,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/g8agr3n1"))()
 - [BETA] Mount Arunika / Gunung Arunika
 - Mount Sibuatan / Gunung Sibuatan
 - Mount Daun / Gunung Daun
+- Mount Talamau / Gunung Talamau
 ```
 
 ## About
