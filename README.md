@@ -8,9 +8,11 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/g8agr3n1"))()
 ```
 
-### Supported Games
+### Supported Games Script
 ```
 - Indo Hangout
+- [BETA] Mount Arunika
+- Mount Sibuatan
 ```
 
 ## About
