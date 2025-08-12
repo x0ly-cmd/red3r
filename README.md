@@ -1,4 +1,4 @@
-# Red3r Hub | Built In Key System
+# Red3r Hub | Built In Key System | Roblox Script
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/64px-Lua-Logo.svg.png)](https://nodesource.com/products/nsolid)
 
