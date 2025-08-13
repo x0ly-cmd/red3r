@@ -5,7 +5,7 @@
 
 ### Usage
 ```
-loadstring(game:HttpGet("https://pastebin.com/raw/g8agr3n1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x0ly-cmd/red3r/refs/heads/main/RED3RLoader.lua"))()
 ```
 
 ### Supported Games Script
