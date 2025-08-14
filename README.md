@@ -19,7 +19,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x0ly-cmd/red3r/refs/h
 ## Community
 
 <p align="left">
-<a href="https://discord.gg/asdwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdwade" height="30" width="40" /> Join Discord RED3R Hub</a>
+<a href="https://discord.com/invite/qZAMk2SSab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdwade" height="30" width="40" /> Join Discord RED3R Hub</a>
 </p>
 
 ## About
