@@ -11,10 +11,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x0ly-cmd/red3r/refs/h
 ### Supported Games Script
 ```
 - Indo Hangout 🟢
-- [BETA] Mount Arunika / Gunung Arunika 🔴
+- [BETA] Mount Arunika / Gunung Arunika 🟢
 - Mount Sibuatan / Gunung Sibuatan 🟢
 - Mount Daun / Gunung Daun 🟢
 - Mount Talamau / Gunung Talamau 🟢
+- Mount Kotak / Gunung Kotak 🟢
 ```
 ## Community
 
