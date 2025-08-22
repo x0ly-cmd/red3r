@@ -10,12 +10,15 @@
 
 - `Indo Hangout` :green_circle:
 - `Mount Sibuatan` :green_circle:
-- `Mount Daun` :green_circle:
-- `Mount Kotak` :green_circle:
 - `Mount Talamau` :green_circle:
 - `Mount Arunika` :green_circle:
 - `Mount Yahayuk` :green_circle:
 - `Mount Appalachia` :green_circle:
+- `Mount Kotak` :yellow_circle:
+- `Mount Daun` :yellow_circle:
 - `Indo Beach [EXTREME]` :yellow_circle:
 
 ### Script Status :  :green_circle: : Working Stable |  :yellow_circle:  : Unstable | Update | Bannable |  :red_circle: : Discontinue
+
+## ***DISCORD*
+https://dsc.gg/red3r
