@@ -20,5 +20,5 @@
 
 ### Script Status :  :green_circle: : Working Stable |  :yellow_circle:  : Unstable | Update | Bannable |  :red_circle: : Discontinue
 
-## **DISCORD**
+## **DISCORD RED3R HUB**
 https://dsc.gg/red3r
