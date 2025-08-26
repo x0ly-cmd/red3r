@@ -8,17 +8,25 @@
 
 ## **RED3R HUB SUPPORTED GAMES** 
 
+[MAP VOICE]
 - `Indo Hangout` :green_circle: - Beberapa Fitur Banyak Di VIP
+- `Indo Beach` :green_circle:
+
+[AUTO SUMMIT]
 - `Mount Arunika` :green_circle: ONLY VIP
 - `Mount Sibuatan` :green_circle: ONLY VIP
 - `Mount Atin` :green_circle: ONLY VIP
-- `Indo Beach` :green_circle:
+- `Mount CKPTW` :green_circle: ONLY VIP
+- `Mount Liora` :green_circle: ONLY VIP
 - `Mount Talamau` :green_circle:
 - `Mount Yahayuk` :green_circle:
 - `Mount Appalachia` :green_circle:
 - `Mount Jawa` :green_circle:
 - `Mount Sumbing` :green_circle:
-- `Mount Kotak` :yellow_circle:
+- `Mount Akhirat` :yellow_circle:
+- `Mount Terserah` :yellow_circle:
+- `Mount Hanami` :yellow_circle:
+- `Mount Aduh` :yellow_circle:
 - `Mount Daun` :yellow_circle: ONLY VIP
 
 ### Script Status :  :green_circle: : Working Stable |  :yellow_circle:  : Unstable | Update | Bannable |  :red_circle: : Discontinue
