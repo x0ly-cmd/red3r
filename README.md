@@ -23,10 +23,10 @@
 - `Mount Appalachia` :green_circle:
 - `Mount Jawa` :green_circle:
 - `Mount Sumbing` :green_circle:
-- `Mount Akhirat` :yellow_circle:
-- `Mount Terserah` :yellow_circle:
-- `Mount Hanami` :yellow_circle:
-- `Mount Aduh` :yellow_circle:
+- `Mount Akhirat` :green_circle:
+- `Mount Terserah` :green_circle:
+- `Mount Hanami` :green_circle:
+- `Mount Aduh` :green_circle:
 - `Mount Daun` :yellow_circle: ONLY VIP
 
 ### Script Status :  :green_circle: : Working Stable |  :yellow_circle:  : Unstable | Update | Bannable |  :red_circle: : Discontinue
