@@ -10,6 +10,7 @@
 
 [MAP VOICE]
 - `Indo Hangout` :green_circle: - Beberapa Fitur Banyak Di VIP
+- `Indo Camp` :green_circle: ONLY VIP
 - `Indo Beach` :green_circle:
 
 [AUTO SUMMIT]
