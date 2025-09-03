@@ -14,6 +14,7 @@
 - `Indo Beach` :green_circle:
 
 [AUTO SUMMIT]
+- `Mount Arunika` :green_circle: ONLY VIP
 - `Mount Ravika` :green_circle: ONLY VIP
 - `Mount Sibuatan` :green_circle: ONLY VIP
 - `Mount Atin` :green_circle: ONLY VIP
