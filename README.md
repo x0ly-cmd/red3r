@@ -14,12 +14,15 @@
 - `Indo Beach` :green_circle:
 
 [AUTO SUMMIT]
+- `Mount Daun` :green_circle: ONLY VIP
 - `Mount Arunika` :green_circle: ONLY VIP
 - `Mount Ravika` :green_circle: ONLY VIP
 - `Mount Sibuatan` :green_circle: ONLY VIP
 - `Mount Atin` :green_circle: ONLY VIP
 - `Mount CKPTW` :green_circle: ONLY VIP
 - `Mount Liora` :green_circle: ONLY VIP
+- `Mount Lembayana` :green_circle: ONLY VIP
+- `Mount Yahayuk V2` :green_circle: ONLY VIP
 - `Mount Talamau` :green_circle:
 - `Mount Yahayuk` :green_circle:
 - `Mount Appalachia` :green_circle:
@@ -29,7 +32,6 @@
 - `Mount Terserah` :green_circle:
 - `Mount Hanami` :green_circle:
 - `Mount Aduh` :green_circle:
-- `Mount Daun` :yellow_circle: ONLY VIP
 
 ### Script Status :  :green_circle: : Working Stable |  :yellow_circle:  : Unstable | Update | Bannable |  :red_circle: : Discontinue
 
