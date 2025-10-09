@@ -33,7 +33,7 @@
 - `Mount Terserah` :green_circle:
 - `Mount Hanami` :green_circle:
 - `Mount Aduh` :green_circle:
-- `Mount HTS` :green_circle:
+- `Mount Mono` :green_circle:
 - `Mount Neraka Journey` :green_circle:
 - `Mount Kawah Terjun` :green_circle:
 - `Mount Hell Expedition` :green_circle:
